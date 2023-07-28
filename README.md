@@ -3,7 +3,7 @@ This is the repository for all the work done relating to ERA  S11 assignment
 
 ### 1. S11.ipynb
 
-The `S11.ipynb` file is the notebook that has executions of training model based on the network architecture ResNet18 so as to execute the model which gives 85%+ accuracy by training the model for 20 epochs. It is to note here that we are not defining any new class or function here, rather using and executing the model framework defined in a separate repo and obtaining the results.
+The `S11.ipynb` file is the notebook that has executions of training model based on the network architecture ResNet18 so as to execute the model which gives 85%+ accuracy by training the model for 20 epochs. It is to note here that we are not defining any new class or function here, rather using and executing the model framework defined in a separate repo and obtaining the results. The repo for the model framework code can be found at https://github.com/mHemaAP/model_framework. Please refer to [it's README](https://github.com/mHemaAP/model_framework/blob/main/README.md) for more details. 
 
 #### 1.1. Descritpion of basic components in the notebook
 
