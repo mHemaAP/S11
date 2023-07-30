@@ -1,4 +1,4 @@
-# S11
+# S11 - Image CLassification Using ResNet18 - CIFAR10 DataSet
 This is the repository for all the work done relating to ERA  S11 assignment
 
 ### 1. S11.ipynb
